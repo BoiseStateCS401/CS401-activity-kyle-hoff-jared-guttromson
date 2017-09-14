@@ -49,6 +49,15 @@ img:hover {
     opacity: 0.5;
 }
 
+img.logo {
+  float: left;
+  padding: 10px;
+}
+
+img.logo:hover{
+  opacity: 1;
+}
+
 pre {
     background-color: gray;
     padding: 10px;
