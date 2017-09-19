@@ -110,7 +110,15 @@ footer {
 	text-align: center;
 }
 
-.content {
+.htmlContent {
+  display: none;
+}
+
+.cssContent {
+  display: none;
+}
+
+.javascriptContent {
   display: none;
 }
 
