@@ -110,5 +110,13 @@ footer {
 	text-align: center;
 }
 
+.content {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
 /* To view the response status you can inspect the website, select
 Network, then Headers. */
